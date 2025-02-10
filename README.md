@@ -25,7 +25,7 @@ Huge shoutout to EkiZR for his website template. I repurposed alot of his code a
 
 Feel free to contact me for further details
 
-<div align="center">
+<div align="left">
   <a href="https://www.facebook.com/XxAni10NxX/"><img src="https://github.com/abyss01701/portfolio/blob/main/icons/facebook.png?raw=true" alt="Facebook" width="30px" style="margin: 0 10px;"></a>
   <a href="https://www.instagram.com/incarcerated_abyss/"><img src="https://github.com/abyss01701/portfolio/blob/main/icons/instagram.png?raw=true" alt="Instagram" width="30px" style="margin: 0 10px;"></a>
   <a href="https://x.com/incarcerated_ab"><img src="https://github.com/abyss01701/portfolio/blob/main/icons/twitter.png?raw=true" alt="X (formerly Twitter)" width="30px" style="margin: 0 10px;"></a>
