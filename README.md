@@ -1,7 +1,7 @@
 🚀 Welcome to My Portfolio!
 
 <p align="center">
-  <img src="https://github.com/abyss01701/portfolio/blob/main/Carousel/Animated%20GIF.gif?raw=true" width="400">
+  <img src="https://github.com/abyss01701/portfolio/blob/main/Carousel/Animated%20GIF.gif?raw=true" width="700">
 </p>
 
 This project showcases my journey to learning React, Tailwind CSS, & Vite among other popular frontend frameworks. Technologies used in this project include 
