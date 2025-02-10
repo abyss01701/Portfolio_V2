@@ -11,6 +11,7 @@ This project showcases my journey to learning React, Tailwind CSS, & Vite among 
 🔹 UI: Material UI, Lucide
 
 Features included in this project are: 
+
 🔹 Home : Interactive Gallery Carousel with Navigate buttons & Drag with mouse
 
 🔹 About: Downloadable CV and navigation buttons
