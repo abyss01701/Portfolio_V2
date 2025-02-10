@@ -3,14 +3,20 @@
 This project showcases my journey to learning React, Tailwind CSS, & Vite among other popular frontend frameworks. Technologies used in this project include 
 
 🔹 Frontend: React, HTML,CSS, JavaScript, Tailwind CSS
+
 🔹 Backend: Firebase
+
 🔹 Animation: AOS (Animate on Scroll), Framer Motion, SweetAlert2
+
 🔹 UI: Material UI, Lucide
 
 Features included in this project are: 
 🔹 Home : Interactive Gallery Carousel with Navigate buttons & Drag with mouse
+
 🔹 About: Downloadable CV and navigation buttons
+
 🔹 Portfolio: Dynamic Data fetching from Firebase (FireStore Database) 
+
 🔹 Contact: Simple Contact Form using FormSubmit.co and a FAQ section with popular questions
 
 
