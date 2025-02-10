@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@font-face {
+  font-family: 'Berlin Sans FB Demi Bold';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Berlin Sans FB Demi Bold'), url('BRLNSDB.woff') format('woff');
+  }
+html{
+  scroll-behavior: smooth;
+}
+body
+{
+  background: black;
+}
+nav ul li a{
+  color: white;
+}
