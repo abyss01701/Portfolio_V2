@@ -23,10 +23,11 @@ Features included in this project are:
 
 Huge shoutout to EkiZR for his website template. I repurposed alot of his code and style into this project and as well as the animators behind gifs used in the gallery carousel.
 
-Feel free to contact me
+Feel free to contact me for further details
+
 <div align="center">
-  <a href="https://www.facebook.com/XxAni10NxX/"><img src="images/facebook.png" alt="Facebook" width="30px" style="margin: 0 10px;"></a>
-  <a href="https://www.instagram.com/incarcerated_abyss/"><img src="images/instagram.png" alt="Instagram" width="30px" style="margin: 0 10px;"></a>
-  <a href="https://x.com/incarcerated_ab"><img src="images/twitter.png" alt="X (formerly Twitter)" width="30px" style="margin: 0 10px;"></a>
-  <a href="https://www.linkedin.com/in/akshat-newal-700021268/"><img src="images/linkedin.png" alt="LinkedIn" width="30px" style="margin: 0 10px;"></a>
+  <a href="https://www.facebook.com/XxAni10NxX/"><img src="[images/facebook.png](https://github.com/abyss01701/portfolio/blob/main/icons/facebook.png?raw=true)" alt="Facebook" width="30px" style="margin: 0 10px;"></a>
+  <a href="https://www.instagram.com/incarcerated_abyss/"><img src="[images/instagram.png](https://github.com/abyss01701/portfolio/blob/main/icons/instagram.png?raw=true)" alt="Instagram" width="30px" style="margin: 0 10px;"></a>
+  <a href="https://x.com/incarcerated_ab"><img src="[images/twitter.png](https://github.com/abyss01701/portfolio/blob/main/icons/twitter.png?raw=true)" alt="X (formerly Twitter)" width="30px" style="margin: 0 10px;"></a>
+  <a href="https://www.linkedin.com/in/akshat-newal-700021268/"><img src="[images/linkedin.png](https://github.com/abyss01701/portfolio/blob/main/icons/linkedin.png?raw=true)" alt="LinkedIn" width="30px" style="margin: 0 10px;"></a>
 </div>
