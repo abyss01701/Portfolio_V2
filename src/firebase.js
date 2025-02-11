@@ -4,13 +4,13 @@ import { collection, addDoc, getDocs } from "@firebase/firestore";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDiaf__aNoWdblWhDCH5r2Nxf8B_r6Q7DI",
-  authDomain: "eportfolio-bf854.firebaseapp.com",
-  projectId: "eportfolio-bf854",
-  storageBucket: "eportfolio-bf854.firebasestorage.app",
-  messagingSenderId: "584582594160",
-  appId: "1:584582594160:web:e7b8d4c68af047817dbeb5",
-  measurementId: "G-CHP76K6BPC"
+  apiKey: "your_api_key",
+  authDomain: "your_domain_namw",
+  projectId: "your_project_id",
+  storageBucket: "your_sb",
+  messagingSenderId: "your_messaging<id",
+  appId: "your_app_id",
+  measurementId: "you're measurementId"
 };
 
 // Initialize Firebase
