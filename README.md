@@ -26,6 +26,7 @@ Features included in this project are:
 
 
 Huge shoutout to EkiZR for his website template. I repurposed alot of his code and style into this project and as well as the animators behind gifs used in the gallery carousel.
+You can access the site at akshatnewal.dev
 
 Feel free to contact me for further details
 
